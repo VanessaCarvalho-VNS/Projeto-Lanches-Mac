@@ -1,0 +1,409 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LanchesMac.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LanchesMac.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\Envelope-icon24.png",
+      "PackagePath": "staticwebassets\\images\\Envelope-icon24.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\Full-Cart-icon.png",
+      "PackagePath": "staticwebassets\\images\\Full-Cart-icon.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\Home-iconred.png",
+      "PackagePath": "staticwebassets\\images\\Home-iconred.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\adminarea.jpg",
+      "PackagePath": "staticwebassets\\images\\adminarea.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\carousel11.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel11.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\carousel12.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel12.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\carousel13.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel13.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\cart-5-16.ico",
+      "PackagePath": "staticwebassets\\images\\cart-5-16.ico"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\delete.png",
+      "PackagePath": "staticwebassets\\images\\delete.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\faleconosco1.jpg",
+      "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\lanchevegano1.jpg",
+      "PackagePath": "staticwebassets\\images\\lanchevegano1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\login1.jpg",
+      "PackagePath": "staticwebassets\\images\\login1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\logo_lanche2-sfd.png",
+      "PackagePath": "staticwebassets\\images\\logo_lanche2-sfd.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\logo_lanche2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo_lanche2.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\phone-app-icon.png",
+      "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\bolo_chocolate1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\bolo_chocolate1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\cachorroquente1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\cachorroquente1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\cheeseburger1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\cheeseburger1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\cheesesalada1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\cheesesalada1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\citrus1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\citrus1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\coca1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\coca1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\guarana1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\guarana1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\lanche_natural1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanche_natural1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\lanchenatural.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanchenatural.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\lanchenatural_peitoperu.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\lanchenatural_peitoperu.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\mistoquente4.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\mistoquente4.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\pudim_leite1.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\pudim_leite1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\produtos\\pudim_leite3.jpg",
+      "PackagePath": "staticwebassets\\images\\produtos\\pudim_leite3.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\registro1.jpg",
+      "PackagePath": "staticwebassets\\images\\registro1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\remove.ico",
+      "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\transp1.jpg",
+      "PackagePath": "staticwebassets\\images\\transp1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\_Cursos_Macoratti\\Curso_ASPNET_Core_MVC_FAZAP\\CURSO_FAZAP_MEDIAFIRE\\23_NET7_Migra\\LanchesMac\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.LanchesMac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.LanchesMac.props",
+      "PackagePath": "build\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.LanchesMac.props",
+      "PackagePath": "buildMultiTargeting\\LanchesMac.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.LanchesMac.props",
+      "PackagePath": "buildTransitive\\LanchesMac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
